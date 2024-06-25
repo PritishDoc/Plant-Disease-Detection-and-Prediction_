@@ -15,6 +15,7 @@ This project is a machine learning application designed to predict plant disease
 ## Dataset
 
 The dataset consists of images of plant leaves categorized by disease type. It is divided into training and testing sets to evaluate the model's performance.
+Here is the link of the dataset:[text](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
 ## Model Architecture
 
