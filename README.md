@@ -14,8 +14,10 @@ This project is a machine learning application designed to predict plant disease
 
 ## Dataset
 
-The dataset consists of images of plant leaves categorized by disease type. It is divided into training and testing sets to evaluate the model's performance.
-Here is the link of the dataset:[text](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+The dataset consists of 80K RGB images of plant leaves categorized by disease type. It is divided into training and testing sets to evaluate the model's performance.
+Here is the link of the dataset:[Tap Here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+
+![Dataset Description](D:\Program\git-repo\Plant-Disease-Detection-and-Prediction_\44.png)
 
 ## Model Architecture
 
@@ -25,6 +27,13 @@ The CNN model is built with the following layers:
 - **Pooling Layers**: For reducing the dimensionality of the feature maps.
 - **Fully Connected Layers**: For classification.
 - **Softmax Layer**: For outputting disease probabilities.
+
+### Graph of the Model Training and Model Loss
+ For our model training process, I employed the Adam optimization strategy, which is well known for its efficiency and smoother convergence when compared to alternative approaches. Ten training epochs were used to train the model, which led to increasing accuracy and decreasing loss functions on each run. 22,294 photos total from our collection were split into classes representing healthy and ill plant leaves. Positive trends were shown during the validation and training phases. Training and validation losses decreased as training and validation accuracy, as seen in Figures. These findings show how well the model learned from the data,
+ ![Model Loss](D:\Program\git-repo\Plant-Disease-Detection-and-Prediction_\12.png)
+
+ ![Model Accuracy](D:\Program\git-repo\Plant-Disease-Detection-and-Prediction_\output.png)
+
 
 ## Installation
 
@@ -36,6 +45,7 @@ Follow these steps to set up the project locally:
 - TensorFlow 2.0+
 - Flask
 - OpenCV
+
 
 ### Clone the Repository
 
