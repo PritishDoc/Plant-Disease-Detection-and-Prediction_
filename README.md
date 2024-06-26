@@ -18,7 +18,7 @@ The dataset consists of 80K RGB images of plant leaves categorized by disease ty
 The training set consists of 70,292 RGB images, representing 80% of the dataset, while the test set comprises 17,573 RGB images, making up the remaining 20%.
 Here is the link of the dataset: [Tap Here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
-![Dataset Description](images/44.png)
+![44](https://github.com/PritishDoc/Plant-Disease-Detection-and-Prediction_/assets/141579651/ea98c981-bb06-4a5b-a2c2-92780461780f)
 
 ## Model Architecture
 
@@ -32,9 +32,10 @@ The CNN model is built with the following layers:
 ### Graph of the Model Training and Model Loss
 For our model training process, I employed the Adam optimization strategy, which is well known for its efficiency and smoother convergence when compared to alternative approaches. Ten training epochs were used to train the model, which led to increasing accuracy and decreasing loss functions on each run. 22,294 photos total from our collection were split into classes representing healthy and ill plant leaves. Positive trends were shown during the validation and training phases. Training and validation losses decreased as training and validation accuracy, as seen in Figures. These findings show how well the model learned from the data.
 # Model Loss Graph
-![images/12.png](images/12.png)
+![12](https://github.com/PritishDoc/Plant-Disease-Detection-and-Prediction_/assets/141579651/e305cc95-e179-4c24-8d97-2f8d2276e3a1)
 # Model Accuracy Graph
-![Model Accuracy](images/output.png)
+
+![output](https://github.com/PritishDoc/Plant-Disease-Detection-and-Prediction_/assets/141579651/71fde424-2996-4cf4-bd03-86c702f89da5)
 
 ## Installation
 
