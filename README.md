@@ -15,6 +15,7 @@ This project is a machine learning application designed to predict plant disease
 ## Dataset
 
 The dataset consists of 80K RGB images of plant leaves categorized by disease type. It is divided into training and testing sets to evaluate the model's performance.
+The training set consists of 70,292 RGB images, representing 80% of the dataset, while the test set comprises 17,573 RGB images, making up the remaining 20%.
 Here is the link of the dataset: [Tap Here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
 ![Dataset Description](images/44.png)
