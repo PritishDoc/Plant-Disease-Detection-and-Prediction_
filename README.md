@@ -40,7 +40,7 @@ For our model training process, I employed the Adam optimization strategy, which
 ## Installation
 
 Follow these steps to set up the project locally:
-
+ 
 ### Prerequisites
 
 - Python 3.7+
@@ -51,5 +51,5 @@ Follow these steps to set up the project locally:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/plant-disease-detection.git
+git clone https://github.com/PritishDoc/plant-disease-detection.git
 cd plant-disease-detection
