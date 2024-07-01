@@ -37,6 +37,12 @@ For our model training process, I employed the Adam optimization strategy, which
 
 ![output](https://github.com/PritishDoc/Plant-Disease-Detection-and-Prediction_/assets/141579651/71fde424-2996-4cf4-bd03-86c702f89da5)
 
+# These are the sample output screenshot of the model
+![alt text](<Screenshot 2024-06-03 090119.png>)
+![alt text](<Screenshot 2024-06-03 055103.png>)
+![alt text](<Screenshot 2024-06-03 055747.png>)
+![alt text](<Screenshot 2024-06-03 055318.png>)
+
 ## Installation
 
 Follow these steps to set up the project locally:
