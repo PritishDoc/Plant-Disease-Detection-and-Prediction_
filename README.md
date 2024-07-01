@@ -19,11 +19,14 @@ The training set consists of 70,292 RGB images, representing 80% of the dataset,
 Here is the link of the dataset: [Tap Here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
 ![44](https://github.com/PritishDoc/Plant-Disease-Detection-and-Prediction_/assets/141579651/ea98c981-bb06-4a5b-a2c2-92780461780f)
+## These are the image pre process steps 
+![alt text](<Screenshot 2024-06-02 182010.png>)
 
 ## Model Architecture
 
-The CNN model is built with the following layers:
 
+The CNN model is built with the following layers:
+![alt text](1-s2.0-S1574954121000807-ga1_lrg.jpg)
 - **Convolutional Layers**: For feature extraction from images.
 - **Pooling Layers**: For reducing the dimensionality of the feature maps.
 - **Fully Connected Layers**: For classification.
