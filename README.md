@@ -29,9 +29,9 @@ The CNN model is built with the following layers:
 ![alt text](1-s2.0-S1574954121000807-ga1_lrg.jpg)
 - **Convolutional Layers**: For feature extraction from images.
 - **Pooling Layers**: For reducing the dimensionality of the feature maps.
-- **Fully Connected Layers**: For classification.
 - **Softmax Layer**: For outputting disease probabilities.
-
+- **Ful!ly Connected Layers**: For classification.
+![alt text](1695400757616.png)
 ### Graph of the Model Training and Model Loss
 For our model training process, I employed the Adam optimization strategy, which is well known for its efficiency and smoother convergence when compared to alternative approaches. Ten training epochs were used to train the model, which led to increasing accuracy and decreasing loss functions on each run. 22,294 photos total from our collection were split into classes representing healthy and ill plant leaves. Positive trends were shown during the validation and training phases. Training and validation losses decreased as training and validation accuracy, as seen in Figures. These findings show how well the model learned from the data.
 # Model Loss Graph
