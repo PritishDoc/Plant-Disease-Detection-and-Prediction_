@@ -42,7 +42,8 @@ For our model training process, I employed the Adam optimization strategy, which
 ![alt text](<Screenshot 2024-06-03 055103.png>)
 ![alt text](<Screenshot 2024-06-03 055747.png>)
 ![alt text](<Screenshot 2024-06-03 055318.png>)
-
+![alt text](<Screenshot 2024-06-03 054733.png>)
+![alt text](<Screenshot 2024-06-03 054953.png>)
 ## Installation
 
 Follow these steps to set up the project locally:
